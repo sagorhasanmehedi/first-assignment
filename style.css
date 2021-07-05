@@ -30,3 +30,24 @@ hade{
     font-size: 55px;
     font-weight: 900;
 }
+.part-tow{
+    display: flex;
+    background-image: url(Frame\ 58.jpg);
+   
+    width: 100%;
+}
+.part-tow-image{
+    padding-left: 300px;
+    padding-top: 50px
+
+}
+.part-tow-text{
+    margin-top: 200px;
+    padding-right: 300px;
+    padding-left: 300px;
+    
+
+}
+.part-tow-hedder{
+    font-size: 30px;
+}
