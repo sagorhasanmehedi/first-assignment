@@ -1,0 +1,32 @@
+hade{
+    font-family: 'Bitter', serif;
+}
+.flexibal-contenir{
+    display: flex;
+    margin-top: 50px;
+    width: 100%;
+    
+}
+.orange-color{
+    color: orange;
+}
+.part-one-text{
+    margin-top: 200px;
+    margin-left: 250px;
+    
+}
+.part-one-images{
+    padding-left: 300px;
+}
+.link-batoon{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 7px 30px;
+    color: white;
+    border-radius: 10%;
+    font-weight: 600;
+}
+.hadder-font{
+    font-size: 55px;
+    font-weight: 900;
+}
