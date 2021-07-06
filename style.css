@@ -81,7 +81,27 @@ hade{
     
 }
 .follower{
+    margin-top: 65px;
+    margin-bottom: 65px;
+    margin-left: 4%;
+    margin-right: 4%;
     display: flex;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.f1{
+    padding-left: 5%;
+
+}
+.f2{
+    padding-left: 25%
+
+}
+.f3{
+    padding-left: 25%;
+
 }
 footer{
     background-image: url(cool-background\ \(1\).png);
